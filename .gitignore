@@ -1,0 +1,11 @@
+.env
+.idea
+
+/venv1
+/json_Response
+
+/twitter_scraper/migrations
+
+
+.env*
+/my-scraper-pool/node_modules
